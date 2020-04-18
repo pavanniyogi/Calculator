@@ -1,0 +1,3 @@
+[run]
+source = Calculator
+omit = Calculator/test*
